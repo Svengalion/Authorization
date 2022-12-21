@@ -1,0 +1,144 @@
+G:\C# + DstaBase\Forms\Forms\bin\Debug\Forms.exe.config
+G:\C# + DstaBase\Forms\Forms\bin\Debug\Forms.exe
+G:\C# + DstaBase\Forms\Forms\bin\Debug\Forms.pdb
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.Form1.resources
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.exe
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.pdb
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.log_in.resources
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.sign_in.resources
+G:\C# + DstaBase\Forms\Forms\bin\Debug\System.Data.SqlClient.dll
+G:\C# + DstaBase\Forms\Forms\bin\Debug\System.Data.SqlClient.xml
+G:\C# + DstaBase\Forms\Forms\obj\Debug\Forms.csproj.CopyComplete
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\bin\Debug\Forms.exe.config
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\bin\Debug\Forms.exe
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\bin\Debug\Forms.pdb
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\bin\Debug\System.Data.SqlClient.dll
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\bin\Debug\System.Data.SqlClient.xml
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.Form1.resources
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.log_in.resources
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.sign_in.resources
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.CopyComplete
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.exe
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.pdb
+F:\Projects_VKI_C#\SQL+C#\Forms\Forms\obj\Debug\Forms.Successfully.resources
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.Form1.resources
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.log_in.resources
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.Successfully.resources
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.exe
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.pdb
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\Forms.exe.config
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\Forms.exe
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\Forms.pdb
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\System.Data.SqlClient.dll
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\System.Data.SqlClient.xml
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.CopyComplete
+F:\BackUp\SQL+C#\Forms\Forms\obj\Debug\Forms.registration.resources
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\Cinema.mdf
+F:\BackUp\SQL+C#\Forms\Forms\bin\Debug\Cinema_log.ldf
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\bin\Debug\Forms.exe.config
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\bin\Debug\Forms.exe
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\bin\Debug\Forms.pdb
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\bin\Debug\System.Data.SqlClient.dll
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\bin\Debug\System.Data.SqlClient.xml
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.Form1.resources
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.registration.resources
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.log_in.resources
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.Successfully.resources
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.csproj.CopyComplete
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.exe
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.pdb
+G:\C# + DstaBase\Forms-ComboBox\SQL+C#-20221125T040751Z-001\SQL+C#\Forms\Forms\obj\Debug\Forms.Halls.resources
+D:\AAProjects\C#\Forms\Forms\bin\Debug\Database1.mdf
+D:\AAProjects\C#\Forms\Forms\bin\Debug\Database1_log.ldf
+D:\AAProjects\C#\Forms\Forms\bin\Debug\Forms.exe.config
+D:\AAProjects\C#\Forms\Forms\bin\Debug\Forms.exe
+D:\AAProjects\C#\Forms\Forms\bin\Debug\Forms.pdb
+D:\AAProjects\C#\Forms\Forms\bin\Debug\System.Data.SqlClient.dll
+D:\AAProjects\C#\Forms\Forms\bin\Debug\System.Data.SqlClient.xml
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.Form1.resources
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.Halls.resources
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.registration.resources
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.log_in.resources
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.Successfully.resources
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.csproj.CopyComplete
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.exe
+D:\AAProjects\C#\Forms\Forms\obj\Debug\Forms.pdb
+G:\C# + DstaBase\FormsЗачёт\Forms\bin\Debug\Forms.exe.config
+G:\C# + DstaBase\FormsЗачёт\Forms\bin\Debug\Forms.exe
+G:\C# + DstaBase\FormsЗачёт\Forms\bin\Debug\Forms.pdb
+G:\C# + DstaBase\FormsЗачёт\Forms\bin\Debug\System.Data.SqlClient.dll
+G:\C# + DstaBase\FormsЗачёт\Forms\bin\Debug\System.Data.SqlClient.xml
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.Form1.resources
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.Halls.resources
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.registration.resources
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.Properties.Resources.resources
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.log_in.resources
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.Successfully.resources
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.csproj.CopyComplete
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.exe
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.pdb
+G:\C# + DstaBase\FormsЗачёт\Forms\obj\Debug\Forms.BuyTickets.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\bin\Debug\Forms.exe.config
+D:\AAProjects\C#\FormsЗачёт\Forms\bin\Debug\Forms.exe
+D:\AAProjects\C#\FormsЗачёт\Forms\bin\Debug\Forms.pdb
+D:\AAProjects\C#\FormsЗачёт\Forms\bin\Debug\System.Data.SqlClient.dll
+D:\AAProjects\C#\FormsЗачёт\Forms\bin\Debug\System.Data.SqlClient.xml
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.BuyTickets.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.Form1.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.Halls.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.registration.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.log_in.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.Successfully.resources
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.csproj.CopyComplete
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.exe
+D:\AAProjects\C#\FormsЗачёт\Forms\obj\Debug\Forms.pdb
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\bin\Debug\Forms.exe.config
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\bin\Debug\Forms.exe
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\bin\Debug\Forms.pdb
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\bin\Debug\System.Data.SqlClient.dll
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.BuyTickets.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.Halls.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.registration.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.log_in.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.Successfully.resources
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.exe
+C:\Users\yung_\OneDrive\Desktop\FormsЗачёт\Forms\obj\Debug\Forms.pdb
